@@ -2,3 +2,5 @@ pip
 jupyter
 notebook
 ipykernel
+openai
+dotenv
