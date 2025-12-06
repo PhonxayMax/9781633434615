@@ -4,3 +4,4 @@ notebook
 ipykernel
 openai
 dotenv
+rich
