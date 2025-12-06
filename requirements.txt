@@ -5,3 +5,5 @@ ipykernel
 openai
 dotenv
 rich
+tavily
+wikipedia
